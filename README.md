@@ -40,4 +40,4 @@ This project is licensed under the MIT License.
 
 Acknowledgments:
 
-The Student Expense Tracker project was inspired by the need for students to effectively manage their finances. Special thanks to Shrey Kanwar Rathore(RA211100310444), Anirudh Dhawan(RA2111003010333) who helped make this project possible.
+The Student Expense Tracker project was inspired by the need for students to effectively manage their finances. Special thanks to Gorrela Sai Saketh(RA211100310437), Shrey Kanwar Rathore(RA211100310444) and Anirudh Dhawan(RA2111003010333) who helped make this project possible.
